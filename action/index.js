@@ -89,7 +89,7 @@ async function startRaven() {
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
 
       let m = smsg(client, mek, store);
-      const raven = require("./action/mbrazilnjr");
+      const raven = require("./action/mbrazilnjr.js");
       raven(client, m, chatUpdate, store);
     } catch (err) {
       console.log(err);
