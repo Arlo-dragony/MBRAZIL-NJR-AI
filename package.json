@@ -1,5 +1,5 @@
 { 
-   "name": "RAVEN-BOT", 
+   "name": "MBRAZIL", 
    "version": "3.0.0", 
    "description": "WhatsApp Multi Device Bot", 
    "main": "index.js", 
@@ -80,10 +80,10 @@
    }, 
    "repository": { 
      "type": "git", 
-     "url": "git+https://github.com/HunterNick2/RAVEN-BOT.git" 
+     "url": "git+https://github.com/Arlo-dragony/MBRAZIL-NJR-AI.git" 
    }, 
    "bugs": { 
-     "url": "https://github.com/HunterNick2/RAVEN-BOT/issues" 
+     "url": "https://github.com/Arlo-dragony/MBRAZIL-NJR-AI/issues" 
    }, 
-   "homepage": "https://github.com/HunterNick2/RAVEN-BOT#readme" 
+   "homepage": "https://github.com/Arlo-dragony/MBRAZIL-NJR-AI#readme" 
    }
